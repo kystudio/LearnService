@@ -8,9 +8,16 @@
     tools:context="com.kystudio.learnservice.MainActivity">
 
     <TextView
+        android:id="@+id/tvOut"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
+
+    <EditText
+        android:id="@+id/etData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ss"/>
 
     <Button
         android:text="启动服务"
@@ -35,4 +42,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btnUnBindService" />
+
+    <Button
+        android:text="同步数据"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnSyncData" />
 </LinearLayout>
