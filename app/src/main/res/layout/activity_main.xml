@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.kystudio.learnservice.MainActivity">
+    tools:context="com.kystudio.learnservice.ForegroundService">
 
     <TextView
         android:id="@+id/tvOut"

@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LearnService.iml" filepath="$PROJECT_DIR$/LearnService.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backgroundService/backgroundService.iml" filepath="$PROJECT_DIR$/backgroundService/backgroundService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foregroundService/foregroundService.iml" filepath="$PROJECT_DIR$/foregroundService/foregroundService.iml" />
     </modules>
   </component>
 </project>
